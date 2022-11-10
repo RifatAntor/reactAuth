@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactAuth/static/css/main.84dea414.chunk.css",
+    "main.js": "/reactAuth/static/js/main.4f9f0698.chunk.js",
+    "main.js.map": "/reactAuth/static/js/main.4f9f0698.chunk.js.map",
+    "runtime-main.js": "/reactAuth/static/js/runtime-main.d470adbc.js",
+    "runtime-main.js.map": "/reactAuth/static/js/runtime-main.d470adbc.js.map",
+    "static/js/2.ceb8feca.chunk.js": "/reactAuth/static/js/2.ceb8feca.chunk.js",
+    "static/js/2.ceb8feca.chunk.js.map": "/reactAuth/static/js/2.ceb8feca.chunk.js.map",
+    "index.html": "/reactAuth/index.html",
+    "static/css/main.84dea414.chunk.css.map": "/reactAuth/static/css/main.84dea414.chunk.css.map",
+    "static/js/2.ceb8feca.chunk.js.LICENSE.txt": "/reactAuth/static/js/2.ceb8feca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d470adbc.js",
+    "static/js/2.ceb8feca.chunk.js",
+    "static/css/main.84dea414.chunk.css",
+    "static/js/main.4f9f0698.chunk.js"
+  ]
+}
